@@ -73,8 +73,8 @@ def zonehh():
 		izan2 = raw_input("\033[91mEntre ZHE: ")
 		
 		my_cook = {
-			"ZHE" : izan2,
-			"PHPSESSID" : izan
+			"ZHE" : 030d66f47a0cd6d065c4af309bbf4eb4,
+			"PHPSESSID" : hlbg9ellv0qh9u90qj49mvrr00
 				}
 		
 
